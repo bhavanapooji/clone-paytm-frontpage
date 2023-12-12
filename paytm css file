@@ -1,0 +1,970 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+ol li{
+    display: inline-block;
+    height:54px;
+    padding:17px;
+}
+
+.name_nav1{
+    font:17px 'Inter Tight', sans-serif;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    padding:17px;
+    position:relative;
+}
+input[value="Sign In"]{
+   position:relative;
+   padding:9px 50px 10px 20px;
+   border-radius:20px;
+   background-color: #00BAF2;
+   border:none;
+   color: white;
+   font:15px 'Inter Tight', sans-serif;
+   font-weight: 600;
+   letter-spacing: 1px;
+
+}
+img[alt="sign_in_profile_pic"]{
+    position:relative;
+    top:12px;
+    right:37px;
+}
+.align_nav{
+    position:relative;
+    left:350px
+}
+#sign_in_nav1,#paytm_nav1_logo{
+    padding:17px
+}
+img[alt="nav1_main_logo"]{
+    position:absolute;
+    left:180px 
+    
+}
+#paytm_nav1_logo{
+    position:relative;
+    top:3px
+}
+#nav2_paytm{
+    height:48px;
+    background-image: linear-gradient(to bottom,#e1e1e1, #f4f4f4);
+   font:15px 'Inter Tight', sans-serif;
+    letter-spacing: 1px;
+    position:relative;
+    top:20px;
+}
+#no_wallet{
+    text-align: center;
+    position:relative;
+    top:5px;
+}
+#smile_emoji{
+    font-size:25px
+}
+img[alt="phones"]{
+    width: 528px;
+    position: absolute;
+    top: 250px;
+    right: 0;
+}
+img[alt="mini_logo"]{
+    width:80px;
+    position: relative;
+    top:150px;
+    left:140px;
+    box-shadow: 0 5px 20px rgba(0,41,112,.1);
+    border-radius: 16px;
+}
+#indias_most_loved{
+   font:54px 'Inter Tight', sans-serif;
+   width:500px;
+   position:absolute;
+   top:400px;
+   left:140px;
+   text-shadow: 2px 0 #050505;
+letter-spacing:3px;
+font-weight:bold;
+}
+#recharge_and_Pay{
+    position: relative;
+    width:480px;
+    font: 20px 'Inter Tight', sans-serif;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0.5px;
+    margin: 0px 0px 40px;
+    padding:10px 0px 0px;
+    top:325px;
+    left:140px;
+    text-shadow: 0.3px 0  #050505 ;
+    letter-spacing: 1px;
+}
+img[alt="white_apple_icon"],img[alt="white_playstore_icon"]{
+    height:18px; width:18px;
+    position: relative;
+    top:333px;
+    left:67px
+}
+input[value="Download Paytm App"]{
+    padding:15px 45px 15px 20px;
+    border-radius:25px;
+    border:none;
+    color:white;
+    background-color: black;
+    position: relative;
+    top:330px;
+    left:140px;
+    font-size:17px
+}
+#sky_blue_box{
+    height:382px;
+    width:100%;
+    border: 1px solid #00baf2;
+    background-color: #00baf2;
+    position:relative;
+    top:445px;
+    padding:65px 0px;
+
+}
+#many_lil_boxes,#many_lil_boxes2{
+    margin:25px 0px 0px
+}
+#recharge_and_pay_bills,#book_and_buy{
+    color:white;
+    font:36px 'Inter Tight', sans-serif;
+    font-weight: bold;
+    text-shadow: 1.3px 0 white;
+    letter-spacing: 2px;
+    margin-left:140px
+}
+img[alt="recharge"],img[alt="pay"],img[alt="recharge2"],img[alt="Book"],img[alt="pay2"],img[alt="pay3"],img[ alt="All"],img[alt="movie_ticket" ],img[alt="flight_tickets"],img[alt="train_tikets"],img[alt="buy_insurance"],img[ alt="international_flights"],img[alt="bus_tickets"],img[alt="invest_in_Stocks"]{
+    width:64px;
+}
+#first_lil_box,#second_lil_box,#third_lil_box,#fourth_lil_box,#fifth_lil_box,#sixth_lil_box,#seventh_lil_box,#first_lil_box1,#second_lil_box2,#third_lil_box2,#fourth_lil_box2,#fifth_lil_box2,#sixth_lil_box2, #seventh_lil_box2{
+    position: absolute;
+    color:white;
+    left:150px;
+    margin:0px 32px 0px 0px;
+    padding:16px 11px 16px 16px;
+    font:15px 'Inter Tight', sans-serif;
+    font-weight: bold;
+    letter-spacing: 1px;
+    line-height: 35px;
+
+}
+#second_lil_box,#second_lil_box2{
+    position:absolute;
+    left:330px
+}
+#third_lil_box,#third_lil_box2{
+    position:absolute;
+    left:510px;
+}
+#fourth_lil_box,#fourth_lil_box2{
+    position:absolute;
+    left:690px;
+
+}
+#fifth_lil_box,#fifth_lil_box2{
+position:absolute;
+left:870px
+}
+#sixth_lil_box,#sixth_lil_box2{
+    position:absolute;
+left:1050px
+}
+#seventh_lil_box,#seventh_lil_box2{
+    position:absolute;
+left:1230px
+}
+.lil_box_caption_align{
+    text-shadow: 0.7px 0 white;
+    line-height:20px
+}
+#dark_blue_box{
+    height:350px;
+    width:100%;
+    padding:65px 0px;
+    border:1px solid #0f4a8a;
+    background-color: #0f4a8a;
+    position:absolute;
+    top:1224px
+}
+.align_lil_boxes2{
+    text-shadow: 0.8px 0 white;
+    line-height:22px;
+    font-size:17px
+}
+#Paytm_payment_instruments{
+    background-color: #f5f7fa;
+    height:410vh;
+    width:100%;
+    position:relative;
+    top:798px;
+    padding:120px 150px 48px;
+
+}
+
+#h1_paytm{
+    font:46px 'Inter Tight', sans-serif;
+    font-weight:bold;
+    letter-spacing:3px;
+    text-shadow: 1.5px 0 black;
+}
+#main_box1{
+    height:620px;
+    width:1170px;
+    border:1px solid white;
+    background-color: white;
+    border-radius:10px;
+    margin:30px 0px;
+    padding:80px 50px 80px 115px;
+}
+img[alt="haldirams"]{
+    width:539px;
+    float:right
+}
+img[alt="paytm_wallet"]{
+    height:120px;
+    width:90px;
+    padding-right:12px;
+    padding-top:50px
+}
+#word_paytm_wallet{
+    width:30px;
+    position:relative;
+    left:90px;
+    top:-60px;
+    font:16px 'Inter Tight', sans-serif;
+    font-weight: bolder;
+    letter-spacing: 1px;
+}
+#the_fastest_way,#pay_anyone{
+    position:relative;
+    bottom:50px;
+    margin-top: 48px;
+    width: 370px;
+    font: 36px 'Inter Tight', sans-serif;;
+    font-weight: 600;
+    line-height: 46px;
+    text-shadow: 0.5px 0 black;
+    letter-spacing:1.3px
+}
+#load_up_your,#pay_anyone_everywhere{
+    padding:24px 0px 30px ;
+    position:relative;
+    bottom:50px;
+    font: 17px 'Inter Tight', sans-serif;
+    font-weight:600;
+    width:480px;
+    line-height: 25px;
+    letter-spacing:1px;
+
+}
+#second_input_download{
+    position:relative;
+    top:-40px;
+    left:-5px
+}
+img[alt="white_apple_icon2"],img[alt="white_playstore_icon2"]{
+    position:relative;
+    height:20px;
+    top:-35px;
+    left:-80px
+}
+#main_box2{
+    height:620px;
+    width:1170px;
+    border:1px solid white;
+    background-color: white;
+    border-radius:10px;
+    margin:50px 0px;
+    padding:80px 50px 80px 115px;
+}
+img[alt="paid_successfully"]{
+    width:539px;
+    float:right;
+}
+img[alt="UPI_money_transfer"]{
+    padding-right:12px ;
+    height:77px; width:auto;
+}
+#letter_upi_money_transfer{
+    width:100px;
+    font: 16px 'Inter Tight', sans-serif;
+    font-weight:600;
+    text-shadow:0.9px 0 black;
+    letter-spacing:1px;
+    position:relative;
+    top:-60px;
+    right:-90px;  
+}
+#second_input_download2{
+    position:relative;
+    top:-55px;
+    left:-5px
+}
+img[alt="white_apple_icon3"],img[alt="white_playstore_icon3"]{
+    height:20px;
+    position:relative;
+    top:-50px;
+    left:-80px
+}
+#main_box3{
+    height:620px;
+    width:1170px;
+    border:1px solid white;
+    background-color: white;
+    border-radius:10px;
+    margin:50px 0px;
+    padding:80px 50px 80px 115px;
+
+}
+img[alt="shopping_bag"]{
+    width:433px;
+    float:right;
+}
+img[alt="paytm_postpaid"]{
+    padding-right:12px;
+    height:77px;
+    position:relative;
+    top:50px;
+}
+#want_it{
+    position:relative;
+    bottom:-35px;
+    margin-top: 48px;
+    width: 390px;
+    font: 36px 'Inter Tight', sans-serif;;
+    font-weight: bold;
+    line-height: 46px;
+    text-shadow: 0.8px 0 black;
+    letter-spacing:1.3px
+}
+#with_paytm_postpaid{
+    padding:24px 0px 30px ;
+    position:relative;
+    bottom:-32px;
+    font: 17px 'Inter Tight', sans-serif;
+    font-weight:600;
+    width:450px;
+    line-height: 25px;
+    letter-spacing:1px;
+}
+input[value="Learn More  >"],#new_learn_more,#new_learn_more1,#new_learn_more2,#new_learn_more3,#new_learn_more4,#new_learn_more5{
+    padding:15px 30px;
+    border-radius:40px;
+    background-color: #002970;
+    border:none;
+    color:white;
+    font:17px 'Inter Tight', sans-serif;
+    font-weight:bold;
+    letter-spacing:0.5px;
+    position:relative   ;
+    top:30px;
+    left:5px
+}
+#left_side_box{
+    height:700px;
+    background-color: white;
+    border:1px solid;
+    border:none;
+    width:561px;
+    margin-right:48px;
+    padding:70px 64px 0px;
+    border-radius:10px
+}
+#right_side_box{
+    height:700px;
+    background-color: white;
+    border:1px solid;
+    border:none;
+    width:561px;
+    margin-right:48px;
+    padding:70px 64px 0px;
+    border-radius:10px;
+    float:right;
+    position:relative;
+    top:-700px
+}
+img[alt="paytm_hdfc_bank"]{
+    height:77px;
+}
+#unlimited_cashback,#indias_most{
+    padding-top:28px;
+    font:40px 'Inter Tight', sans-serif;
+    font-weight:bold;
+    text-shadow:1px 0 black;
+    letter-spacing:1.5px;
+}
+#paytm_hdfc_bank2,#paytm_sbi_card{
+    margin:20px 0px;
+    font:20px 'Inter Tight', sans-serif;
+    font-weight:500;
+    letter-spacing:1px;
+    text-shadow: 0.2px 0 black;
+    line-height:30px
+}
+img[alt="blue_card"],img[alt="meha_sinha"]{
+    height: 296px;
+    position: relative;
+    top:25px
+}
+img[alt="sbi_card"]{
+    margin-top:50px;
+    height:20px;
+    
+}
+img[alt="meha_sinha"]{
+    margin-top:7px
+}
+#finance{
+    height:100vh;
+    position:relative;
+    top:800px;
+    margin-left:180px;
+    margin-right:220px;
+}
+#financial_services_of_paytm{
+    padding-top:120px;
+    margin-right:30px;
+    font:48px 'Inter Tight', sans-serif;
+    font-weight:bolder;
+    text-shadow: 0.3px 0 black;
+    
+    
+}
+img[alt="paytm_payment_bank"]{
+    width:212px;
+    padding-top:50px;
+}
+#indias_most_sincere{
+    margin-top: 48px;
+    font: 40px 'Inter Tight', sans-serif;
+    font-weight: 700;
+    width:400px;
+    line-height: 50px;
+    letter-spacing: 2px;
+    text-shadow: 1px 0 black;
+}
+#paytm_payments{
+    margin:25px 30px;
+    font: 20px 'Inter Tight', sans-serif;
+    width:530px;
+    line-height:26px;
+    font-weight:500;
+    letter-spacing:1.4px;
+    text-shadow: 0.2px 0 black;
+    position:relative;
+    left:-30px;
+    
+}
+img[alt="rahul_sharma"]{
+    width: 452px;
+    float:right;
+    position:relative;
+    top:-450px
+}
+#graph{
+    height:80vh;
+    background-color: #f5f7fa;
+    position:relative;
+    top:800px;
+}
+img[alt="graph"]{
+width:100%;
+position:relative;
+top:-340px;
+}
+img[alt="paytm_money"]{
+    padding:80px 0px;
+    margin-right:130px;
+    width:472px;
+    position:relative;
+    top:-990px;
+    left:185px;
+}
+img[alt="paytm_money1"]{
+    position:relative;
+    top:-1500px;
+    left:850px;
+    height:54px;
+}
+#build_long_term{
+    font: 40px 'Inter Tight', sans-serif;
+    position:relative;
+    top:-1460px;
+    left:850px;
+    width:350px;
+    font-weight:bold;
+    letter-spacing:1.8px;
+    text-shadow: 1px 0 black;
+    
+}
+#investing_on_paytm{
+    font: 20px 'Inter Tight', sans-serif;
+    line-height:26px;
+    font-weight:500;
+    width:550px;
+    position:relative;
+    top:-1430px;
+    left:850px;
+    letter-spacing:1px;
+    text-shadow: 0.2px 0 black;
+
+
+}
+#new_learn_more1{
+    position:relative;
+    top:-1400px;
+    left:850px;
+}
+#insurance_made_easy{
+    height:553px;
+    /* border:10px solid black; */
+    position:relative;
+    bottom:-980px;
+    padding:80px 0px;
+    margin-left:180px;
+    margin-right:220px;
+}
+img[alt="insurance"]{
+    height:433px;
+    float:right;
+    position:relative;
+    top:-60px
+}
+img[alt="insurance_broking"]{
+    height:54px;
+    position:relative;
+    top:-60px
+
+}
+#letter_insurance_made_easy{
+    font: 40px 'Inter Tight', sans-serif;
+margin:48px 0px 0px;
+font-weight:bold;
+letter-spacing:1.5px;
+text-shadow: 1px 0 black;
+position:relative;
+    top:-60px
+}
+#buying_insurance{
+    font: 20px 'Inter Tight', sans-serif;
+    padding:24px 0px 30px;
+    width:500px;
+    line-height:26px;
+    letter-spacing:1px;
+    text-shadow: 0.3px 0 black;
+    position:relative;
+    top:-60px
+}
+#new_learn_more2{
+    position:relative;
+    top:-0px;
+    position:relative;
+    top:-60px
+}
+#personal_loan{
+    height:80vh;
+    width:100%;
+    background-color: #f5f7fa;
+    position:relative;
+    top:990px;
+    padding:80px 100px 180px 220px;
+}
+img[alt="congrats"]{
+    height:433px;
+}
+img[alt="image_personal_loan"]{
+    height:54px;
+    position:relative;
+    top:-400px;
+    left:650px
+}
+#get_a_personal_loan{
+    font: 38px 'Inter Tight', sans-serif;
+margin:48px 0px 0px;
+font-weight:bold;
+letter-spacing:1.5px;
+text-shadow: 1px 0 black;
+width:420px;
+position:relative;
+top:-400px;
+left:655px
+}
+#paytm_offers{
+    font: 17px 'Inter Tight', sans-serif;
+    padding:24px 0px 30px;
+    width:530px;
+    line-height:26px;
+    letter-spacing:1px;
+    text-shadow: 0.3px 0 black;
+    position:relative;
+    top:-400px;
+    left:655px;
+}
+#new_learn_more3{
+    position:relative;
+    top:-400px;
+    left:655px;
+}
+#Business_Services_by_Paytm{
+    height:450vh;
+    padding:120px 150px 0px;
+
+}
+#letter_business_Service{
+    position:relative;
+    top:1000px;
+    margin-bottom:25px;
+    font: 48px 'Inter Tight', sans-serif;
+    font-weight:bold;
+    letter-spacing: 2px;
+    text-shadow: 1px 0 black;
+    
+}
+#accept_payments{
+    width:1170px;
+    height:625px;
+    padding:80px 0px 80px 115px;
+    background-color: #f5f7fa;
+    border-radius:10px;
+    position:relative;
+    top:1000px;
+}
+img[alt="wireless_headphone"]{
+    height:464px;
+    float:right
+}
+#accept_payments_online{
+    font: 40px 'Inter Tight', sans-serif;
+margin:48px 0px 0px;
+font-weight:bold;
+letter-spacing:1.5px;
+text-shadow: 1px 0 black;
+position:relative;
+    top:85px;
+    width:400px;
+}
+#grow_your_business{
+    font: 17px 'Inter Tight', sans-serif;
+    padding:24px 0px 30px;
+    width:450px;
+    line-height:26px;
+    letter-spacing:1px;
+    text-shadow: 0.3px 0 black;
+    position:relative;
+    top:85px
+}
+#new_learn_more4{
+    position:relative;
+    top:85px;
+    left:-5px;
+}
+#in_shop_payments{
+    height:502px;
+    width:1170px;
+    padding:80px 0px 80px 115px;
+    background-color: #f5f7fa;
+    border-radius:10px;
+    position:relative;
+    top:1050px;
+}
+img[alt="ganesha"]{
+    height:342px;
+    float:right;
+}
+#letter_in_shop_payment{
+    font: 40px 'Inter Tight', sans-serif;
+margin:48px 0px 0px;
+font-weight:bold;
+letter-spacing:1.5px;
+text-shadow: 1px 0 black;
+position:relative;
+    top:15px;
+    width:400px;
+}
+#millions_of_small{
+    font: 17px 'Inter Tight', sans-serif;
+    padding:24px 0px 30px;
+    width:450px;
+    line-height:26px;
+    letter-spacing:1px;
+    text-shadow: 0.3px 0 black;
+    position:relative;
+    top:15px
+}
+#new_learn_more5{
+    position:relative;
+    left:-5px;
+}
+#business_tools{
+    height:933px;
+    width:1170px;
+    margin:0px 20px;
+    padding:120px 0px;
+    position:relative;
+    top:1000px
+}
+#letter_business_tools{
+ width:450px;  
+ padding:80px 0px 90px;
+ font: 40px 'Inter Tight', sans-serif;
+ letter-spacing:2px;
+    text-shadow: 1px 0 black;
+    font-weight:bold;
+}
+#four_box{
+    height:508px;
+    width:1170px;
+}
+
+img[alt="dashboard"],img[alt="paytm_business"],img[alt="paytm_upi"],img[alt="ramial"]{
+    height:220px;
+    width:300px;
+    padding-right:60px
+}
+#pos_software,#paytm_for_business,#advertise,#Business_khata{
+    padding:40px 0px 20px;
+    font: 26px 'Inter Tight', sans-serif;
+ letter-spacing:2px;
+    text-shadow: 1px 0 black;
+    font-weight:bold;
+    width:200px;
+    line-height: 28px;
+}
+#say_hello,#everything_you_need,#grow_your,#managing_khata{
+    margin:20px 0px;
+    font: 20px 'Inter Tight', sans-serif;
+ letter-spacing:1px;
+    text-shadow: 0.3px 0 black;
+    width:250px;
+    line-height: 28px;
+}
+#learnmore1{
+    font: 15px 'Inter Tight', sans-serif;
+ letter-spacing:1px;
+ font-weight:bold;
+    text-shadow: 0.5px 0 black;
+    width:250px;
+    letter-spacing: 1px;
+    line-height: 28px;
+}
+img[alt="paytm_business"]{
+
+    position:relative;
+    left:300px;
+    top:-460px
+}
+#paytm_for_business{
+position:relative;
+top:-470px;
+left:300px;
+}
+#everything_you_need{
+    width:230px;
+    position:relative;
+    top:-473px;
+left:300px;
+}
+img[alt="paytm_upi"]{
+    position:relative;
+    top:-950px;
+    left:600px
+}
+#advertise{
+    position:relative;
+    top:-970px;
+    left:620px;
+}
+#grow_your{
+    position:relative;
+    left:620px;
+    top:-970px;
+}
+img[alt="ramial"]{
+    position:relative;
+    left:940px;
+    top:-1445px;
+}
+#Business_khata{
+    position:relative;
+    left:945px;
+    top:-1460px
+}
+#managing_khata{
+    position:relative;
+    left:940px;
+    top:-1470px;
+}
+#tiny_divisions{
+    margin:300px 0px 200px 150px;
+}
+img[alt="left_head"],img[alt="travel"]{
+    height:59px;
+    position:relative;
+    top:900px;
+    left:-150px;
+}
+#get_started_on,#best_travel{
+    margin-top:15px;
+    font: 15px 'Inter Tight', sans-serif;
+ letter-spacing:1px;
+    width:200px;
+    letter-spacing: 1px;
+    line-height: 26px;
+    position:relative;
+    top: 930px;
+    left:-150px;
+}
+#learn_more_blue,#learn_more_blue1{
+    color:#4ccff6;
+    font: 17px 'Inter Tight', sans-serif;
+ letter-spacing:1px;
+ font-weight:bold;
+ position:relative;
+ top: 940px;
+ left:-150px;
+ 
+}
+#bull,#ipo,#eft,#gold,#invest{
+    border-radius: 10px;
+    background:#4ccff6;
+    padding: 5px;
+    text-align: center;
+    opacity:0.7;
+    cursor: pointer;
+    width: 155px;
+    height: 230px;
+    display:inline-block;
+    position:relative;
+    top:700px;
+    left:30px;
+    margin:0px 0px 90px 50px;
+}
+img[alt="travel"]{
+    position:relative;
+    top:750px;
+}
+#best_travel{
+    position:relative;
+    top:750px;
+}
+#learn_more_blue1{
+    top:755px
+}
+#flat10,#refund,#flat14,#sanitised,#hassle{
+    border-radius: 10px;
+    background:#4ccff6;
+    padding: 30px 10px 50px;
+    text-align: center;
+    cursor: pointer;
+    width: 155px;
+    height: 230px;
+    display:inline-block;
+    position:relative;
+    top: 550px;
+    left:30px;
+    margin:0px 0px 90px 50px;
+}
+img[alt="bull"],img[alt="ipo"],img[alt="eft"],img[alt="gold"],img[alt="invest"]{
+    height:158px;
+    
+    /* position:relative; */
+    /* top:-300px */
+}
+img[alt="bull"]:hover,img[alt="ipo"]:hover,img[alt="eft"]:hover,img[alt="gold"]:hover,img[alt="invest"]:hover{
+    transition: .3s;
+    width: 145px;
+    height: 170px;
+    opacity:1
+}
+
+img[alt="flat10"],img[alt="refund"],img[alt="flat14"],img[alt="sanitised"],img[alt="hassle"]{
+    height:100px;
+    position:relative;
+    top:35px;
+    align-content:center;
+}
+img[alt="flat10"]:hover,img[alt="refund"]:hover,img[alt="flat14"]:hover,img[alt="sanitised"]:hover,img[alt="hassle"]:hover{
+    transition: .3s;
+    width: 110px;
+    height: 110px;
+    opacity:1
+}
+.span{
+    color:white;
+}
+
+#download{
+    height:100vh;
+    background-color: #f5f7fa;
+    display:block;
+    position:relative;
+    top:900px;
+    padding:90px 100px 0px;
+    /* margin-bottom:100px; */
+}
+#download_paytm{
+    font: 20px 'Inter Tight', sans-serif;
+    letter-spacing:1px;
+    font-weight:bold;
+    position:relative;
+    top:-10px
+}
+.icons{
+    float:right
+}
+#hr1{
+    border:0.2px solid rgb(220, 220, 220);
+    position:relative;
+    top:50px;
+}
+#listlist{
+    /* display:inline-block; */
+    position:relative;
+    top:100px;
+    left:30px;
+    line-height:35px;
+}
+#Career{
+    position:relative;
+    top:113px;
+    left:15px
+}
+#newlist{
+    position:relative;
+    top:125px;
+    left: 27px;
+    line-height:35px;
+
+
+
+}
+.list_align{
+    font: 14px 'Inter Tight', sans-serif;
+    color:#505050;
+    font-weight:bold;
+    letter-spacing:0.8px;
+
+}
+#footer1{
+    height:12px;
+    background-color: #002970;
+     position:relative;
+    top:900px;
+}
+#footer2{
+    height:12px;
+    background-color:#00BAF2;
+    display:block; position:relative;
+    top:876px;
+}
+
+
