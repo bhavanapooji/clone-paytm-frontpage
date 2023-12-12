@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>
+      Paytm: Secure & Fast UPI Payments, Recharge Mobile & Pay Bills
+    </title>
+    <link rel="shortcut icon" href="https://paytm.com/favicon.ico">
+    <link rel="stylesheet" href="paytm.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter+Tight&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div id="main_paytm">
+      
+        <div id="nav1_paytm">
+          
+            <ol id="list_nav1">
+              <li id="paytm_nav1_logo">
+                <img
+                  src="https://pwebassets.paytm.com/commonwebassets/paytmweb/header/images/logo.svg"
+                  alt="nav1_main_logo"
+                />
+              </li>
+              <li class="name_nav1 align_nav">Paytm for Consumer</li>
+              <li class="name_nav1 align_nav">Paytm for Business</li>
+              <li class="name_nav1 align_nav">Investor Relations</li>
+              <li class="name_nav1 align_nav">Company</li>
+              <li class="name_nav1 align_nav">Career</li>
+              <li id="sign_in_nav1" class="align_nav">
+                <input type="submit" value="Sign In" /><img
+                  src="https://pwebassets.paytm.com/commonwebassets/paytmweb/header/images/loginImg.svg"
+                  alt="sign_in_profile_pic"
+                />
+              </li>
+            </ol>
+          
+        </div>
+      
+      <div id="nav2_paytm">
+        <section id="no_wallet">
+          <b>No Wallet KYC Required</b> <span id="smile_emoji">😊</span> to pay
+          using UPI on Paytm. <b>Learn more.</b>
+        </section>
+      </div>
+      <div id="main1">
+        <div><img
+            src="https://assetscdn1.paytm.com/images/catalog/view/310944/1697527183231.png"
+            alt="mini_logo"
+          /></div>
+        <div><img
+            src="https://assetscdn1.paytm.com/images/catalog/view_item/850762/1697527211984.png"
+            alt="phones"
+          /></div>
+        <h1 id="indias_most_loved"><b>India's Most-loved Payments App</b></h1>
+        <div></div>
+        <div><p id="recharge_and_Pay">
+            Recharge & pay bills, book flights & movie tickets, open a savings
+            account, invest in stocks & mutual funds, and do a lot more.
+          </p></div>
+          <div><input type="text" value="Download Paytm App">
+            <img src="./white apple.png" alt="white_apple_icon">
+            <img src="./white playstore.png" alt="white_playstore_icon">
+        </div>
+      </div>
+      <div id="sky_blue_box">
+        <div><h1 id="recharge_and_pay_bills">Recharge & Pay Bills on Paytm.</h1></div>
+        <div id="many_lil_boxes">
+            <div id="first_lil_box"><img src="https://assetscdn1.paytm.com/images/catalog/view_item/733299/1626251017535.png" alt="recharge">
+                <div>Recharge</div>
+            <div class="lil_box_caption_align">Prepaid</div>
+            <div class="lil_box_caption_align">Mobile  ></div></div>
+            <div id="second_lil_box">
+                <img src="https://assetscdn1.paytm.com/images/catalog/view_item/733308/1626251043534.png" alt="pay">
+                <div>Pay</div>
+                <div class="lil_box_caption_align">Electricity</div>
+                <div class="lil_box_caption_align">Bill  ></div>
+            </div>
+            <div id="third_lil_box">
+                <img src="https://assetscdn1.paytm.com/images/catalog/view_item/733311/1626251101045.png" alt="recharge2">
+                <div>Recharge</div>
+                <div class="lil_box_caption_align">DTH</div>
+                <div class="lil_box_caption_align">Connection  ></div>
+            </div>
+            <div id="fourth_lil_box">
+                <img src="https://assetscdn1.paytm.com/images/catalog/view_item/733307/1626251127863.png" alt="Book">
+                <div>Book</div>
+                <div class="lil_box_caption_align">Gas</div>
+               <div class="lil_box_caption_align"> Cylinder  ></div>
+            </div>
+            <div id="fifth_lil_box">
+                <img src="https://assetscdn1.paytm.com/images/catalog/view_item/1269194/1672827522093.png" alt="pay2">
+                <div>Pay</div>
+                <div class="lil_box_caption_align">Broadband &</div>
+                <div class="lil_box_caption_align">Landline Bill  ></div>
+            </div>
+            <div id="sixth_lil_box">
+                <img src="https://assetscdn1.paytm.com/images/catalog/view_item/1269198/1672828917034.png" alt="pay3">
+                <div>Pay</div>
+                <div class="lil_box_caption_align">Education</div>
+                <div class="lil_box_caption_align">Fee  ></div>
+            </div>
+            <div id="seventh_lil_box">
+                <img src="https://assetscdn1.paytm.com/images/catalog/view_item/757701/1626268580682.png" alt="All">
+                <div>All</div>
+                <div class="lil_box_caption_align">Payment</div>
+                <div class="lil_box_caption_align">Services  ></div>
+            </div>
+        </div>
+      </div>
+      <div id="dark_blue_box">
+        <div><h1 id="book_and_buy">Book & Buy on Paytm.</h1></div>
+        <div id="many_lil_boxes2">
+            <div id="first_lil_box1">
+                <img src="https://assetscdn1.paytm.com/images/catalog/view_item/733295/1626259710574.png" alt="movie_ticket">
+                <div class="align_lil_boxes2">Movie</div>
+                <div class="align_lil_boxes2">Tickets  ></div>
+            </div>
+            <div id="second_lil_box2">
+                <img src="https://assetscdn1.paytm.com/images/catalog/view_item/733296/1626259884425.png" alt="flight_tickets">
+                <div class="align_lil_boxes2">Flight</div>
+                <div class="align_lil_boxes2">Tickets  ></div>
+            </div>
+            <div id="third_lil_box2">
+                <img src="https://assetscdn1.paytm.com/images/catalog/view_item/729996/1626260477699.png" alt="bus_tickets">
+                <div class="align_lil_boxes2">Bus</div>
+                <div class="align_lil_boxes2">Tickets  ></div>
+            </div>
+            <div id="fourth_lil_box2">
+                <img src="https://assetscdn1.paytm.com/images/catalog/view_item/729997/1696910636390.png" alt="train_tikets">
+                <div class="align_lil_boxes2">Train</div>
+                <div class="align_lil_boxes2">Tickets  ></div>
+            </div>
+            <div id="fifth_lil_box2">
+                <img src="https://assetscdn1.paytm.com/images/catalog/view_item/729998/1666185237748.png" alt="buy_insurance">
+                <div class="align_lil_boxes2">Buy</div>
+                <div class="align_lil_boxes2">Insurance  ></div>
+            </div>
+            <div id="sixth_lil_box2">
+                <img src="https://assetscdn1.paytm.com/images/catalog/view_item/729999/1626259968563.png" alt="international_flights">
+                <div class="align_lil_boxes2">International</div>
+                <div class="align_lil_boxes2">Flights  ></div>
+            </div>
+            <div id="seventh_lil_box2">
+                <img src="https://assetscdn1.paytm.com/images/catalog/view_item/730001/1626450848003.png" alt="invest_in_Stocks">
+                <div class="align_lil_boxes2">Invest</div>
+                <div class="align_lil_boxes2">in Stocks  ></div>
+            </div>
+        </div>
+      </div>
+      <div id="Paytm_payment_instruments">
+        <div><h1 id="h1_paytm">Paytm Payment Instruments</h1></div>
+        <div id="main_box1">
+          <div><img src="https://assetscdn1.paytm.com/images/catalog/view_item/728701/1618577020961.png" alt="haldirams"></div>
+          <div><img src="https://assetscdn1.paytm.com/images/catalog/view/307185/1617861564011.png" alt="paytm_wallet"><div id="word_paytm_wallet">Paytm Wallet</div></div>
+          <div><p id="the_fastest_way">The Fastest Way to Pay In-store & Online.</p></div>
+          <div><p id="load_up_your">Load up your Paytm Wallet for free and make payments in a jiffy at over 21 million stores, websites and apps.</p></div>
+          <div><input type="text" value="Download Paytm App" id="second_input_download">
+            <img src="./white apple.png" alt="white_apple_icon2" >
+            <img src="./white playstore.png" alt="white_playstore_icon2">
+        </div>
+        </div>
+        <div id="main_box2">
+          <div><img src="https://assetscdn1.paytm.com/images/catalog/view_item/728702/1626342071104.png" alt="paid_successfully"></div>
+          <div><img src="https://assetscdn1.paytm.com/images/catalog/view/307186/1615957674521.png" alt="UPI_money_transfer"><div id="letter_upi_money_transfer">UPI Money Transfer</div></div>
+          <div><p id="pay_anyone">Pay anyone directly from your bank account.</p></div>
+          <div><p id="pay_anyone_everywhere">Pay anyone, everywhere. Make contactless & secure payments in-stores or online using Paytm Wallet or Directly from your Bank Account. Plus, send & receive money from anyone.</p></div>
+          <div><input type="text" value="Download Paytm App" id="second_input_download2">
+            <img src="./white apple.png" alt="white_apple_icon3" >
+            <img src="./white playstore.png" alt="white_playstore_icon3">
+        </div>
+        </div>
+        <div id="main_box3">
+          <div><img src="https://assetscdn1.paytm.com/images/catalog/view_item/850764/1626077030984.png" alt="shopping_bag"></div>
+          <div><img src="https://assetscdn1.paytm.com/images/catalog/view/307191/1613622537678.png" alt="paytm_postpaid"></div>
+          <div><p id="want_it">Want it?<br> No more waiting for it.</p></div>
+          <div><p id="with_paytm_postpaid">With Paytm Postpaid, your wishlist doesn't have to be on the waitlist. Shop for the things you want today and pay for them next month.</p></div>
+          <div><input type="submit" value="Learn More  >"></div>
+        </div>
+        <div id="left_side_box">
+          <div><img src="https://assetscdn1.paytm.com/images/catalog/view_item/853975/1640242865113.png" alt="paytm_hdfc_bank"></div>
+          <div><h1 id="unlimited_cashback">Unlimited Cashback Every time</h1></div>
+          <div><p id="paytm_hdfc_bank2">Paytm HDFC Bank Select Credit Card. A card with assured Cashback and incredible offers.</p></div>
+          <div><img src="https://assetscdn1.paytm.com/images/catalog/view_item/853975/1640241561388.png" alt="blue_card"></div>
+        </div>
+        <div id="right_side_box">
+          <div><img src="https://assetscdn1.paytm.com/images/catalog/view_item/853976/1640242163727.png" alt="sbi_card"></div>
+          <div><h1 id="indias_most">India's Most <br> Sincere Credit Card</h1></div>
+          <div><p id="paytm_sbi_card">Paytm SBI Card Select - With Intelligent Features & great Rewards that Never Expire</p></div>
+          <div><img src="https://assetscdn1.paytm.com/images/catalog/view_item/853976/1626079147084.png" alt="meha_sinha"></div>
+        </div>
+
+      </div>
+        
+        <div id="finance">
+          <div id="div_financial_services_of_paytm"><h1 id="financial_services_of_paytm">Financial Services by Paytm</h1></div>
+          <div><img src="https://assetscdn1.paytm.com/images/catalog/view/307193/1617696576778.png" alt="paytm_payment_bank"></div>
+          <div><h1 id="indias_most_sincere">India's most sincere bank.</h1></div>
+          <div><p id="paytm_payments">Paytm Payments Bank offers secure, transparent and risk-free banking at your fingertips. With instant account opening, virtual debit card and zero balance requirements, experience the future of banking today.</p></div>
+          <div><input type="submit" value="Learn More  >" id="new_learn_more"></div>
+          <div><img src="https://assetscdn1.paytm.com/images/catalog/view_item/728826/1626076427497.png" alt="rahul_sharma"></div>
+
+        </div>
+      
+        <div id="graph">
+          <img src="https://pwebassets.paytm.com/commonwebassets/commonweb/images/home/gray-spike.png" alt="graph">
+          <img src="https://assetscdn1.paytm.com/images/catalog/view_item/788781/1626077377376.png" alt="paytm_money">
+          <div id="paytm_money">
+            <div><img src="https://assetscdn1.paytm.com/images/catalog/view/308774/1617696247991.png" alt="paytm_money1"></div>
+            <div><h1 id="build_long_term">Build Long-term Wealth & Achieve your Goals.</h1></div>
+            <div><p id="investing_on_paytm">Investing on Paytm Money is transparent, low-cost and commission-free. Buy stocks & mutual funds that can help you create wealth & realise your dreams.</p></div>
+          <div><input type="submit" value="Learn More  >" id="new_learn_more1"></div>
+
+          </div>
+        </div>
+
+        <div id="insurance_made_easy">
+          <div><img src="https://assetscdn1.paytm.com/images/catalog/view_item/788790/1653913927257.png" alt="insurance"></div>
+          <div><img src="https://assetscdn1.paytm.com/images/catalog/view/308775/1653901470333.jpeg" alt="insurance_broking"></div>
+          <div><h1 id="letter_insurance_made_easy">Insurance made easy.</h1></div>
+          <div><p id="buying_insurance">Buying insurance does not have to be tedious, time-consuming & confusing. Paytm Insurance removes the worry of getting insured by making it simple, convenient & easy-to-understand.</p></div>
+          <div><input type="submit" value="Learn More  >" id="new_learn_more2"></div>
+        </div>
+
+        <div id="personal_loan">
+          <div><img src="https://assetscdn1.paytm.com/images/catalog/view_item/850765/1655987252365.png" alt="congrats"></div>
+          <div><img src="https://assetscdn1.paytm.com/images/catalog/view/308777/1617695287770.png" alt="image_personal_loan"></div>
+          <div><h1 id="get_a_personal_loan">Get a Personal Loan in 2 Minutes.</h1></div>
+          <div><p id="paytm_offers">Paytm offers India's quickest multi-purpose, hassle-free loan. It is 100% digital, transparent and paperless.</p></div>
+          <div><input type="submit" value="Learn More  >" id="new_learn_more3"></div>
+
+        </div>
+        <div id="Business_Services_by_Paytm">
+          <div><h1 id="letter_business_Service">Business Services by Paytm</h1></div>
+          <div id="accept_payments">
+            <div><img src="https://assetscdn1.paytm.com/images/catalog/view_item/853877/1697527245473.png" alt="wireless_headphone"></div>
+            <div><h1 id="accept_payments_online">Accept payments online with ease</h1></div>
+            <div><p id="grow_your_business">Grow your business with the payment gateway that powers India’s largest brands and even the Paytm App</p></div>
+          <div><input type="submit" value="Learn More  >" id="new_learn_more4"></div>
+
+          </div>
+          <div id="in_shop_payments">
+            <div><img src="https://assetscdn1.paytm.com/images/catalog/view_item/853880/1656675942486.png" alt="ganesha"></div>
+            <div><h1 id="letter_in_shop_payment">In-shop payments powered by Paytm.</h1></div>
+            <div><p id="millions_of_small">Millions of small & big businesses use Paytm to accept payments anywhere any time with a wide range of solutions for all kind of merchants</p></div>
+          <div><input type="submit" value="Learn More  >" id="new_learn_more5"></div>
+
+          </div>
+          <div id="business_tools">
+            <div><h1 id="letter_business_tools">
+              Business Tools to help <span>your business grow</span>
+            </h1></div>
+              <div id="four_box">
+                <div id="box1">
+                  <div><img src="https://assetscdn1.paytm.com/images/catalog/view_item/854033/1626081565192.png" alt="dashboard">
+                    <div id="pos_software">POS Billing Software</div>
+                    <div id="say_hello">Say Hello to Smart Retail Business Management <span id="learnmore1">Learn More</span></div>
+                  </div>
+                </div>
+                <div id="box2">
+                  <div><img src="https://assetscdn1.paytm.com/images/catalog/view_item/854035/1626081071077.png" alt="paytm_business"></div>
+                  <div id="paytm_for_business">Paytm for Business App</div>
+                  <div id="everything_you_need">Everything you need to manage your business on your phone <br><span id="learnmore1">Learn More</span></div>
+                </div>
+                <div id="box3">
+                  <div><img src="https://assetscdn1.paytm.com/images/catalog/view_item/854036/1656568216166.png" alt="paytm_upi"></div>
+                  <div id="advertise">Advertise on
+                    Paytm</div>
+                    <div id="grow_your">Grow your business by advertising on India’s largest mobile business <br> <span id="learnmore1">Learn More</span></div>
+                </div>
+                <div id="box4">
+                  <div><img src="https://assetscdn1.paytm.com/images/catalog/view_item/854038/1626081814411.png" alt="ramial"></div>
+                  <div id="Business_khata">Business
+                    Khata</div>
+                    <div id="managing_khata">Managing Khata made easy <br> <span id="learnmore1">Learn More</span> </div>
+                </div>
+              </div>
+          </div>
+          <div id="tiny_divisions">
+            <div><img src="https://assetscdn1.paytm.com/images/catalog/view/307196/1626420555412.png" alt="left_head"></div>
+            <div><p id="get_started_on">Get started on wealth creation journey with Zero brokerage fee & no hidden charges.</p><span id="learn_more_blue">Learn More.</span></div>
+            <div id="row1">
+              <div id="bull"><img src="https://assetscdn1.paytm.com/images/catalog/view_item/728894/1618576143299.png" alt="bull"><span class="span">Invest in <br>Stocks</span></div>
+              <div id="ipo"><img src="https://assetscdn1.paytm.com/images/catalog/view_item/728895/1618575899205.png" alt="ipo"><span class="span">Apply for <br> IPO</span></div>
+              <div id="eft"><img src="https://assetscdn1.paytm.com/images/catalog/view_item/800760/1618831809222.png" alt="eft"><span class="span">Invest in <br> EFTs</span></div>
+              <div id="gold"><img src="https://assetscdn1.paytm.com/images/catalog/view_item/728896/1618575990183.png" alt="gold"><span class="span">Buy  <br>Gold</span></div>
+              <div id="invest"><img src="https://assetscdn1.paytm.com/images/catalog/view_item/728899/1618576408440.png" alt="invest"><span class="span">Invest in <br> Mutual funds</span></div>
+
+            </div>
+              <div><img src="https://assetscdn1.paytm.com/images/catalog/view/307197/1626419838546.png" alt="travel"></div>
+              <div><p id="best_travel">Best travel solutions with quick ticket bookings, great offers and easy refunds</p><span id="learn_more_blue1">Learn More.</span></div>
+              <div id="row2">
+                <div id="flat10"><img src="https://assetscdn1.paytm.com/images/catalog/view_item/863734/1627552693557.png" alt="flat10"></div>
+                <div id="refund"><img src="https://assetscdn1.paytm.com/images/catalog/view_item/864144/1627566096011.png" alt="refund"></div>
+                <div id="flat14"><img src="https://assetscdn1.paytm.com/images/catalog/view_item/864145/1627566172335.png" alt="flat14"></div>
+                <div id="sanitised"><img src="https://assetscdn1.paytm.com/images/catalog/view_item/864151/1627567062180.png" alt="sanitised"></div>
+                <div id="hassle"><img src="https://assetscdn1.paytm.com/images/catalog/view_item/864152/1696910826276.png" alt="hassle"></div>
+               
+              </div>
+          </div>
+        </div>
+        <section id="download">
+          <div><ol>
+            <li id="download_paytm">Download Paytm App <br>to Pay from anywhere</li>
+            <li><img src="https://pwebassets.paytm.com/commonwebassets/paytmweb/footer/images/downloadApple.svg" alt="apple_store"></li>
+            <li><img src="https://pwebassets.paytm.com/commonwebassets/paytmweb/footer/images/downloadGoogle.svg" alt="google_store"></li>
+            <li class="icons"><img src="https://pwebassets.paytm.com/commonwebassets/paytmweb/footer/images/twitter.svg" alt="twitter_icon"></li>
+            <li class="icons"><img src="https://pwebassets.paytm.com/commonwebassets/paytmweb/footer/images/instagram.svg" alt="insta_icon"></li>
+            <li class="icons"><img src="https://pwebassets.paytm.com/commonwebassets/paytmweb/footer/images/facebook.svg" alt="fb_icon"></li>
+          </ol> </div>
+          <hr id="hr1">
+          <div><ul id="listlist" class="list_align">
+            <li>Investor relations</li>
+            <li>More about Paytm</li>
+            <li>Company</li>
+          </ul></div>
+          <div id="Career" class="list_align">Career</div>
+          <div id="newlist" class="list_align">
+            <ul>
+              <li>Recharge & Pay Bills </li>
+              <li>Pay Loan EMI, Insurance Premiums & Education Fee</li>
+              <li>Book Travel & Entertainment</li>
+              <li>Investments & Micellaneous</li>
+              <li>Loans and Credit Cards</li>
+              <li>Financial Tools & Calculators</li>
+            </ul>
+          </div>
+        </section>
+        <footer>
+          <div id="footer1"></div>
+          <div id="footer2"></div>
+        </footer>
+    </div>
+  </body>
+</html>
